@@ -7,4 +7,4 @@ while not positive:
         print("Not a positive integer.")
 name = input("Enter your name: ")
 for x in range(number):
-    print(x)
+    print(name)
